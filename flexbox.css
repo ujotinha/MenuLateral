@@ -1,0 +1,15 @@
+.container {
+    background-color: lightblue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.box {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 5px gray;
+}
+

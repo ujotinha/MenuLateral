@@ -1,0 +1,46 @@
+body{
+    margin: 0%;
+    height: 100vh;
+    background-image: url(https://www.albertooculista.com/wp-content/uploads/2020/09/fw-slider_desktop_1.jpg);
+    background-size: auto;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo {
+    height: 100px;
+    border-radius: 10px;
+}
+
+button{
+    background-color: aliceblue;
+    width: 100%;
+    border: none;
+    height: 100px;
+    font-family: 'Poppins', sans-serif;
+}
+
+button:hover{
+    background-color: azure;
+}
+
+.menu{
+    display: flex;
+    padding: 8px;
+    align-items: center;
+    flex-direction: column;
+    background-color: aliceblue;
+    height: 100vh;
+    width: 300px;
+}
+
+.perfil {
+    height: 60px;
+    border-radius: 100%;
+    margin-top: 100px;
+}
+
+p{
+    margin-top: 4px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
